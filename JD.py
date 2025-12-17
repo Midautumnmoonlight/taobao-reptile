@@ -37,7 +37,7 @@ def start_browser():
 
 # 1. 启动
 WebBrowser = start_browser()
-WebBrowser.get("https://cart.jd.com/cart_index")
+WebBrowser.get("https://www.jd.com")
 
 print("\n" + "=" * 60)
 print("1. 扫码登录京东。")
